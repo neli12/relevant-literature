@@ -7,6 +7,8 @@
 - [Mineral control of soil organic carbon storage and turnover](https://www.nature.com/articles/38260).
 - [Physical control of soil organic matter dynamics in the tropics](https://www.sciencedirect.com/science/article/pii/S0016706197000396).
 
+## 2000 
+- [THE VERTICAL DISTRIBUTION OF SOIL ORGANIC CARBON AND ITS RELATION TO CLIMATE AND VEGETATION]( https://doi.org/10.1890/1051-0761(2000)010[0423:TVDOSO]2.0.CO;2)
 ## 2001
 - [Spatial dependence of soil organic carbon mass and its relationship to soil series and topography](https://cdnsciencepub.com/doi/abs/10.4141/S00-016).
 
@@ -23,6 +25,7 @@
 
 ## 2005
 - [The Depth Distribution of Soil Organic Carbon in Relation to Land Use and Management and the Potential of Carbon Sequestration in Subsoil Horizons](https://www.sciencedirect.com/science/article/abs/pii/S0065211305880022).
+- [The Relationship between Carbon Input, Aggregation, and Soil Organic Carbon Stabilization in Sustainable Cropping Systems](https://doi.org/10.2136/sssaj2004.0215).
 
 ## 2006
 - [A review of nitrogen fertilizer and conservation tillage effects on soil organic carbon storage](https://bsssjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-2743.2005.tb00105.x).
