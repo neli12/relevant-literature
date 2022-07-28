@@ -23,7 +23,7 @@
 
 ## 2008
 - [Historical advances in the study of global terrestrial soil organic carbon sequestration](https://www.sciencedirect.com/science/article/abs/pii/S0956053X07003194).
-- [Soil carbon sequestration and land-use change: processes and potential](Soil carbon sequestration and land-use change: processes and potential).
+- [Soil carbon sequestration and land-use change: processes and potential](https://doi.org/10.1046/j.1365-2486.2000.00308.x).
 
 ## 2011
 - [Persistence of soil organic matter as an ecosystem property](https://www.nature.com/articles/nature10386).
