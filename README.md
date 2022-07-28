@@ -4,7 +4,8 @@
 - [The temperature dependence of soil organic matter decomposition, and the effect of global warming on soil organic C storage](https://www.sciencedirect.com/science/article/pii/003807179400242S).
 
 ## 1997
-- [Mineral control of soil organic carbon storage and turnover](https://www.nature.com/articles/38260)
+- [Mineral control of soil organic carbon storage and turnover](https://www.nature.com/articles/38260).
+- [Physical control of soil organic matter dynamics in the tropics](https://www.sciencedirect.com/science/article/pii/S0016706197000396).
 
 ## 2001
 - [Spatial dependence of soil organic carbon mass and its relationship to soil series and topography](https://cdnsciencepub.com/doi/abs/10.4141/S00-016).
@@ -12,14 +13,24 @@
 ## 2002
 - [Stabilization mechanisms of soil organic matter: Implications for C-saturation of soils](https://link.springer.com/article/10.1023/A:1016125726789).
 
+## 2003
+- [Possibilities for carbon sequestration in tropical and subtropical soils](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2486.1997.00062.x).
+
+
+## 2004
+- [Soil Carbon Sequestration Impacts on Global Climate Change and Food Security](https://www.science.org/doi/10.1126/science.1097396).
+- [Carbon sequestration in croplands: the potential in Europe and the global context](https://www.sciencedirect.com/science/article/pii/S1161030103000996).
+
 ## 2005
 - [The Depth Distribution of Soil Organic Carbon in Relation to Land Use and Management and the Potential of Carbon Sequestration in Subsoil Horizons](https://www.sciencedirect.com/science/article/abs/pii/S0065211305880022).
 
 ## 2006
 - [A review of nitrogen fertilizer and conservation tillage effects on soil organic carbon storage](https://bsssjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-2743.2005.tb00105.x).
+- [The soil carbon dilemma: Shall we hoard it or use it?](https://www.sciencedirect.com/science/article/pii/S0038071705003731).
 
 ## 2007
 - [The Myth of Nitrogen Fertilization for Soil Carbon Sequestration](https://acsess.onlinelibrary.wiley.com/doi/full/10.2134/jeq2007.0099).
+- [Soil organic carbon changes in dynamic land use decision models](https://www.sciencedirect.com/science/article/pii/S0167880906002982).
 
 ## 2008
 - [Historical advances in the study of global terrestrial soil organic carbon sequestration](https://www.sciencedirect.com/science/article/abs/pii/S0956053X07003194).
@@ -39,13 +50,16 @@
 - [Experimental Consideration, Treatments, and Methods in Determining Soil Organic Carbon Sequestration Rates](https://acsess.onlinelibrary.wiley.com/doi/full/10.2136/sssaj2013.09.0412). 
 - [Changes in soil organic carbon storage predicted by Earth system models during the 21st century](https://bg.copernicus.org/articles/11/2341/2014/).
 - [Examining the paired comparison method approach for determining soil organic carbon sequestration rates](https://www.jswconline.org/content/69/6/193A.short).
+- [Aggregate-associated soil organic matter as an ecosystem property and a measurement tool](https://www.sciencedirect.com/science/article/pii/S0038071713002241).
 
 ## 2015
 - [Carbon sequestration in soil](https://www.sciencedirect.com/science/article/abs/pii/S1877343515001013).
+- [The dynamic soil organic carbon mitigation potential of European cropland](https://www.sciencedirect.com/science/article/abs/pii/S095937801530025X).
+- [The contentious nature of soil organic matter](https://www.nature.com/articles/nature16069).
 
 ## 2016
 - [Alternative arable cropping systems: A key to increase soil organic carbon storage? Results from a 16 year field experiment](https://www.sciencedirect.com/science/article/pii/S0167880916303760).
-- 
+- [Impact of soil erosion on soil organic carbon stocks](https://www.jswconline.org/content/71/3/61A.short).
 
 ## 2018
 - [Digging deeper: A holistic perspective of factors affecting soil organic carbon sequestration in agroecosystems](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14054). 
@@ -57,6 +71,10 @@
 - [Soil C Sequestration as a Biological Negative Emission Strategy](https://www.frontiersin.org/articles/10.3389/fclim.2019.00008/full).
 - [Soil organic carbon storage as a key function of soils - A review of drivers and indicators at various scales](https://www.sciencedirect.com/science/article/pii/S0016706117319845).
 
+##2020
+- [Dynamic Stability of Soil Carbon: Reassessing the “Permanence” of Soil Carbon Sequestration](https://www.frontiersin.org/articles/10.3389/fenvs.2020.514701/full).
+- [Soil organic carbon sequestration calculated from depth distribution](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/saj2.20176).
+
 ## 2021
 - [No till soil organic carbon sequestration could be overestimated when slope effect is not considered](https://www.sciencedirect.com/science/article/pii/S0048969720372892).
 - [Patterns and predictors of soil organic carbon storage across a continental-scale network](https://link.springer.com/article/10.1007/s10533-020-00745-9).
@@ -66,4 +84,6 @@
 - [Soil organic matter formation, persistence, and functioning: A synthesis of current understanding to inform its conservation and regeneration](https://www.sciencedirect.com/science/article/pii/S0065211321001048).
 - [Younger carbon dominates global soil carbon efflux](https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.16311).
 - [Fire effects on the persistence of soil organic matter and long-term carbon storage](https://www.nature.com/articles/s41561-021-00867-1).
+- [From energy to (soil organic) matter](https://doi.org/10.1111/gcb.16071).
+- [The potential of cover crops to increase soil organic carbon storage in German croplands](https://link.springer.com/article/10.1007/s11104-022-05438-w)
 
