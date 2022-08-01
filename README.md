@@ -6,6 +6,7 @@
 ## 1997
 - [Mineral control of soil organic carbon storage and turnover](https://www.nature.com/articles/38260).
 - [Physical control of soil organic matter dynamics in the tropics](https://www.sciencedirect.com/science/article/pii/S0016706197000396).
+- [Potential for carbon sequestration in European soils: preliminary estimates for five scenarios using results from long-term experiments](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2486.1997.00055.x)
 
 ## 1999
 - [Carbon sequestration in soils](https://www.jswconline.org/content/54/1/382.short).
