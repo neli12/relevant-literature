@@ -24,6 +24,7 @@
 
 ## 2003
 - [Possibilities for carbon sequestration in tropical and subtropical soils](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2486.1997.00062.x).
+- [Potential Soil C Sequestration on U.S. Agricultural Soils](https://link.springer.com/article/10.1023/A:1022888832630).
 
 
 ## 2004
