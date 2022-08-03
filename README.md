@@ -82,6 +82,7 @@
 ## 2016
 - [Alternative arable cropping systems: A key to increase soil organic carbon storage? Results from a 16 year field experiment](https://www.sciencedirect.com/science/article/pii/S0167880916303760).
 - [Impact of soil erosion on soil organic carbon stocks](https://www.jswconline.org/content/71/3/61A.short).
+- [Climate-smart soils](https://www.nature.com/articles/nature17174).
 
 ## 2017
 - [Adopting soil organic carbon management practices in soils of varying quality: Implications and perspectives in Europe](https://www.sciencedirect.com/science/article/pii/S0167198716301507).
