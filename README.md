@@ -61,6 +61,7 @@
 - [Soil organic matter turnover is governed by accessibility not recalcitrance](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2486.2012.02665.x).
 - [Soil fertility concepts over the past two centuries: the importance attributed to soil organic matter in developed and developing countries](https://doi.org/10.1080/03650340.2012.693598).
 - [Persistence of soil organic matter in eroding versus depositional landform positions](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JG001790).
+- [https://bg.copernicus.org/articles/9/3151/2012/](https://bg.copernicus.org/articles/9/3151/2012/).
 
 ## 2013
 - [Soil organic carbon sequestration, storage, retention and loss in U.S. croplands: Issues paper for protocol development](https://www.sciencedirect.com/science/article/pii/S0016706112004211).
