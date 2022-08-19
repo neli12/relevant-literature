@@ -78,6 +78,7 @@
 - [Carbon sequestration in soil](https://www.sciencedirect.com/science/article/abs/pii/S1877343515001013).
 - [The dynamic soil organic carbon mitigation potential of European cropland](https://www.sciencedirect.com/science/article/abs/pii/S095937801530025X).
 - [The contentious nature of soil organic matter](https://www.nature.com/articles/nature16069).
+- [Soil and human security in the 21st century](https://www.science.org/doi/10.1126/science.1261071).
 
 ## 2016
 - [Alternative arable cropping systems: A key to increase soil organic carbon storage? Results from a 16 year field experiment](https://www.sciencedirect.com/science/article/pii/S0167880916303760).
