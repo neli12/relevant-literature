@@ -93,6 +93,7 @@
 - [Digging deeper: A holistic perspective of factors affecting soil organic carbon sequestration in agroecosystems](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14054). 
 - [Soil carbon stock changes in tropical croplands are mainly driven by carbon inputs: A synthesis](https://www.sciencedirect.com/science/article/pii/S0167880917305443).
 - [Technologically achievable soil organic carbon sequestration in world croplands and grasslands](https://onlinelibrary.wiley.com/doi/10.1002/ldr.3209).
+- [Defining a best practice methodology for modeling the environmental performance of agriculture](https://www.sciencedirect.com/science/article/pii/S1462901118300285).
 
 
 ## 2019
@@ -126,6 +127,7 @@
 - [Soil nitrogen and climate drive the positive effect of biological soil crusts on soil organic carbon sequestration in drylands: A Meta-analysis](https://www.sciencedirect.com/science/article/pii/S0048969721051056).
 - [Soil carbon sequestration – An interplay between soil microbial community and soil organic matter dynamics](https://www.sciencedirect.com/science/article/pii/S0048969722000171#!).
 - [Benchmarking soil organic carbon to support agricultural carbon management: A German case study](https://onlinelibrary.wiley.com/doi/full/10.1002/jpln.202200007).
+- [Beyond prediction: methods for interpreting complex models of soil variation](https://www.sciencedirect.com/science/article/abs/pii/S0016706122002609?via%3Dihub#f0085).
 
 
 
