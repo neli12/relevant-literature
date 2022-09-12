@@ -80,6 +80,7 @@
 - [The dynamic soil organic carbon mitigation potential of European cropland](https://www.sciencedirect.com/science/article/abs/pii/S095937801530025X).
 - [The contentious nature of soil organic matter](https://www.nature.com/articles/nature16069).
 - [Soil and human security in the 21st century](https://www.science.org/doi/10.1126/science.1261071).
+- [Carbon sequestration in agricultural soils via cultivation of cover crops – A meta-analysis](https://www.sciencedirect.com/science/article/pii/S0167880914004873).
 
 ## 2016
 - [Alternative arable cropping systems: A key to increase soil organic carbon storage? Results from a 16 year field experiment](https://www.sciencedirect.com/science/article/pii/S0167880916303760).
@@ -94,6 +95,7 @@
 - [Soil carbon stock changes in tropical croplands are mainly driven by carbon inputs: A synthesis](https://www.sciencedirect.com/science/article/pii/S0167880917305443).
 - [Technologically achievable soil organic carbon sequestration in world croplands and grasslands](https://onlinelibrary.wiley.com/doi/10.1002/ldr.3209).
 - [Defining a best practice methodology for modeling the environmental performance of agriculture](https://www.sciencedirect.com/science/article/pii/S1462901118300285).
+- [High carbon storage in a previously degraded subtropical soil under no-tillage with legume cover crops](https://www.sciencedirect.com/science/article/pii/S0167880918303712?via%3Dihub).
 
 
 ## 2019
@@ -128,6 +130,8 @@
 - [Soil carbon sequestration – An interplay between soil microbial community and soil organic matter dynamics](https://www.sciencedirect.com/science/article/pii/S0048969722000171#!).
 - [Benchmarking soil organic carbon to support agricultural carbon management: A German case study](https://onlinelibrary.wiley.com/doi/full/10.1002/jpln.202200007).
 - [Beyond prediction: methods for interpreting complex models of soil variation](https://www.sciencedirect.com/science/article/abs/pii/S0016706122002609?via%3Dihub#f0085).
+- [Soil carbon sequestration for climate change mitigation: Mineralization kinetics of organic inputs as an overlooked limitation](https://bsssjournals.onlinelibrary.wiley.com/doi/10.1111/ejss.13221).
+- [Defining Quantitative Targets for Topsoil Organic Carbon Stock Increase in European Croplands: Case Studies With Exogenous Organic Matter Inputs](https://www.frontiersin.org/articles/10.3389/fenvs.2022.824724/full)
 
 
 
