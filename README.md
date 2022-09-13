@@ -39,6 +39,7 @@
 ## 2006
 - [A review of nitrogen fertilizer and conservation tillage effects on soil organic carbon storage](https://bsssjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-2743.2005.tb00105.x).
 - [The soil carbon dilemma: Shall we hoard it or use it?](https://www.sciencedirect.com/science/article/pii/S0038071705003731).
+- [Stabilization mechanisms of soil organic matter: Implications for C-saturation of soils](https://link.springer.com/article/10.1023/A:1016125726789)
 
 ## 2007
 - [The Myth of Nitrogen Fertilization for Soil Carbon Sequestration](https://acsess.onlinelibrary.wiley.com/doi/full/10.2134/jeq2007.0099).
@@ -90,6 +91,7 @@
 
 ## 2017
 - [Adopting soil organic carbon management practices in soils of varying quality: Implications and perspectives in Europe](https://www.sciencedirect.com/science/article/pii/S0167198716301507).
+- [Sequestering Soil Organic Carbon: A Nitrogen Dilemma](https://pubs.acs.org/doi/10.1021/acs.est.7b01427).
 
 ## 2018
 - [Digging deeper: A holistic perspective of factors affecting soil organic carbon sequestration in agroecosystems](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14054). 
