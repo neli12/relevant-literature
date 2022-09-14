@@ -1,4 +1,6 @@
 # Relevant SOM and SOC literature
+## 1984
+- [A simulation study for the global carbon cycle, including man's impact on the biosphere](https://link.springer.com/article/10.1007/BF00144611).
 
 ## 1995
 - [The temperature dependence of soil organic matter decomposition, and the effect of global warming on soil organic C storage](https://www.sciencedirect.com/science/article/pii/003807179400242S).
@@ -62,7 +64,8 @@
 - [Soil organic matter turnover is governed by accessibility not recalcitrance](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2486.2012.02665.x).
 - [Soil fertility concepts over the past two centuries: the importance attributed to soil organic matter in developed and developing countries](https://doi.org/10.1080/03650340.2012.693598).
 - [Persistence of soil organic matter in eroding versus depositional landform positions](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JG001790).
-- [https://bg.copernicus.org/articles/9/3151/2012/](https://bg.copernicus.org/articles/9/3151/2012/).
+- [How will organic carbon stocks in mineral soils evolve under future climate? Global projections using RothC for a range of climate change scenarios](https://bg.copernicus.org/articles/9/3151/2012/).
+- [The Microbial Efficiency-Matrix Stabilization (MEMS) framework integrates plant litter decomposition with soil organic matter stabilization: do labile plant inputs form stable soil organic matter?](https://onlinelibrary.wiley.com/doi/10.1111/gcb.12113).
 
 ## 2013
 - [Soil organic carbon sequestration, storage, retention and loss in U.S. croplands: Issues paper for protocol development](https://www.sciencedirect.com/science/article/pii/S0016706112004211).
@@ -136,6 +139,7 @@
 - [Beyond prediction: methods for interpreting complex models of soil variation](https://www.sciencedirect.com/science/article/abs/pii/S0016706122002609?via%3Dihub#f0085).
 - [Soil carbon sequestration for climate change mitigation: Mineralization kinetics of organic inputs as an overlooked limitation](https://bsssjournals.onlinelibrary.wiley.com/doi/10.1111/ejss.13221).
 - [Defining Quantitative Targets for Topsoil Organic Carbon Stock Increase in European Croplands: Case Studies With Exogenous Organic Matter Inputs](https://www.frontiersin.org/articles/10.3389/fenvs.2022.824724/full)
+- [Observation-based global soil heterotrophic respiration indicates underestimated turnover and sequestration of soil carbon by terrestrial ecosystem models](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16286).
 
 
 
