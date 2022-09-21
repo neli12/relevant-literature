@@ -1,4 +1,7 @@
 # Relevant SOM and SOC literature
+## 1979
+- [An analytical model of the decomposition of soil organic matter](https://www.sciencedirect.com/science/article/abs/pii/0038071779900270).
+
 ## 1984
 - [A simulation study for the global carbon cycle, including man's impact on the biosphere](https://link.springer.com/article/10.1007/BF00144611).
 
@@ -8,7 +11,10 @@
 ## 1997
 - [Mineral control of soil organic carbon storage and turnover](https://www.nature.com/articles/38260).
 - [Physical control of soil organic matter dynamics in the tropics](https://www.sciencedirect.com/science/article/pii/S0016706197000396).
-- [Potential for carbon sequestration in European soils: preliminary estimates for five scenarios using results from long-term experiments](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2486.1997.00055.x)
+- [Potential for carbon sequestration in European soils: preliminary estimates for five scenarios using results from long-term experiments](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2486.1997.00055.x).
+
+## 1998
+- [CO2 Mitigation by Agriculture: An Overview](https://link.springer.com/article/10.1023/A:1005347017157).
 
 ## 1999
 - [Carbon sequestration in soils](https://www.jswconline.org/content/54/1/382.short).
@@ -53,12 +59,18 @@
 - [Historical advances in the study of global terrestrial soil organic carbon sequestration](https://www.sciencedirect.com/science/article/abs/pii/S0956053X07003194).
 - [Soil carbon sequestration and land-use change: processes and potential](https://doi.org/10.1046/j.1365-2486.2000.00308.x).
 
+## 2009
+-[Soil carbon and nitrogen mineralization: Theory and models across scales](https://www.sciencedirect.com/science/article/pii/S0038071709000765).
+
 ## 2010
 - [What is recalcitrant soil organic matter?](https://www.publish.csiro.au/en/EN10006).
+- [Carbon Finance Possibilities for Agriculture, Forestry and Other
+Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploads/media/1002_FAO_-_Carbon_finance_possibilities_for_agriculture__forestry_and_other_land_use_projects_in_a_smallholder_context.pdf).
 
 ## 2011
 - [Persistence of soil organic matter as an ecosystem property](https://www.nature.com/articles/nature10386).
 - [Temperature and soil organic matter decomposition rates – synthesis of current knowledge and a way forward](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2486.2011.02496.x).
+- [Soil management in relation to sustainable agriculture and ecosystem services](https://www.sciencedirect.com/science/article/abs/pii/S0306919210001399).
 
 ## 2012
 - [Soil organic matter turnover is governed by accessibility not recalcitrance](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2486.2012.02665.x).
@@ -78,6 +90,7 @@
 - [Examining the paired comparison method approach for determining soil organic carbon sequestration rates](https://www.jswconline.org/content/69/6/193A.short).
 - [Aggregate-associated soil organic matter as an ecosystem property and a measurement tool](https://www.sciencedirect.com/science/article/pii/S0038071713002241).
 - [What are the effects of agricultural management on soil organic carbon (SOC) stocks?](https://link.springer.com/article/10.1186/2047-2382-3-2).
+- [A big-microsite framework for soil carbon modeling](https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.12718).
 
 ## 2015
 - [Carbon sequestration in soil](https://www.sciencedirect.com/science/article/abs/pii/S1877343515001013).
@@ -86,6 +99,7 @@
 - [Soil and human security in the 21st century](https://www.science.org/doi/10.1126/science.1261071).
 - [Carbon sequestration in agricultural soils via cultivation of cover crops – A meta-analysis](https://www.sciencedirect.com/science/article/pii/S0167880914004873).
 - [Current developments in soil organic matter modeling and the expansion of model applications: a review](https://iopscience.iop.org/article/10.1088/1748-9326/10/12/123004/meta).
+- [Modeling the Dynamics of Soil Organic Matter and Nutrient Cycling](https://www.sciencedirect.com/science/article/pii/B9780124159556000177?via%3Dihub).
 
 ## 2016
 - [Alternative arable cropping systems: A key to increase soil organic carbon storage? Results from a 16 year field experiment](https://www.sciencedirect.com/science/article/pii/S0167880916303760).
