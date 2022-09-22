@@ -21,7 +21,7 @@
 
 ## 2000 
 - [THE VERTICAL DISTRIBUTION OF SOIL ORGANIC CARBON AND ITS RELATION TO CLIMATE AND VEGETATION]( https://doi.org/10.1890/1051-0761(2000)010[0423:TVDOSO]2.0.CO;2).
-- 
+
 ## 2001
 - [Spatial dependence of soil organic carbon mass and its relationship to soil series and topography](https://cdnsciencepub.com/doi/abs/10.4141/S00-016).
 - [Soil management concepts and carbon sequestration in cropland soils](https://www.sciencedirect.com/science/article/pii/S0167198701001805#!).
