@@ -116,6 +116,8 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Technologically achievable soil organic carbon sequestration in world croplands and grasslands](https://onlinelibrary.wiley.com/doi/10.1002/ldr.3209).
 - [Defining a best practice methodology for modeling the environmental performance of agriculture](https://www.sciencedirect.com/science/article/pii/S1462901118300285).
 - [High carbon storage in a previously degraded subtropical soil under no-tillage with legume cover crops](https://www.sciencedirect.com/science/article/pii/S0167880918303712?via%3Dihub).
+- [Soil Carbon: Introduction, Importance, Status, Threat, and Mitigation](https://www.sciencedirect.com/science/article/pii/B9780128127667000019#!).
+- [Climate, Geography, and Soil Abiotic Properties as Modulators of Soil Carbon Storage](https://www.sciencedirect.com/science/article/pii/B9780128127667000056). 
 
 
 ## 2019
