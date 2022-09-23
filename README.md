@@ -142,6 +142,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Probing the nature of soil organic matter](https://doi.org/10.1080/10643389.2021.1980346).
 - [Mechanisms of soil organic carbon stability and its response to no-till: A global synthesis and perspective](https://doi.org/10.1111/gcb.15968).
 - [Capturing a soil carbon economy](https://royalsocietypublishing.org/doi/10.1098/rsos.202305).
+- [Novel technologies for emission reduction complement conservation agriculture to achieve negative emissions from row-crop production](https://www.pnas.org/doi/10.1073/pnas.2022666118).
 
 
 ## 2022
