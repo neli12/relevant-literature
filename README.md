@@ -91,6 +91,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Aggregate-associated soil organic matter as an ecosystem property and a measurement tool](https://www.sciencedirect.com/science/article/pii/S0038071713002241).
 - [What are the effects of agricultural management on soil organic carbon (SOC) stocks?](https://link.springer.com/article/10.1186/2047-2382-3-2).
 - [A big-microsite framework for soil carbon modeling](https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.12718).
+- [Dynamics and climate change mitigation potential of soil organic carbon sequestration](https://www.sciencedirect.com/science/article/pii/S0301479714002588).
 
 ## 2015
 - [Carbon sequestration in soil](https://www.sciencedirect.com/science/article/abs/pii/S1877343515001013).
@@ -143,6 +144,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Mechanisms of soil organic carbon stability and its response to no-till: A global synthesis and perspective](https://doi.org/10.1111/gcb.15968).
 - [Capturing a soil carbon economy](https://royalsocietypublishing.org/doi/10.1098/rsos.202305).
 - [Novel technologies for emission reduction complement conservation agriculture to achieve negative emissions from row-crop production](https://www.pnas.org/doi/10.1073/pnas.2022666118).
+- [Global variation in soil carbon sequestration potential through improved cropland management](https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.15954).
 
 
 ## 2022
