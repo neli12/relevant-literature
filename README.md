@@ -38,6 +38,7 @@
 ## 2004
 - [Soil Carbon Sequestration Impacts on Global Climate Change and Food Security](https://www.science.org/doi/10.1126/science.1097396).
 - [Carbon sequestration in croplands: the potential in Europe and the global context](https://www.sciencedirect.com/science/article/pii/S1161030103000996).
+- [Carbon cycling and sequestration opportunities in South America: the case of Brazil](https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers13-12/010041229.pdf).
 
 ## 2005
 - [The Depth Distribution of Soil Organic Carbon in Relation to Land Use and Management and the Potential of Carbon Sequestration in Subsoil Horizons](https://www.sciencedirect.com/science/article/abs/pii/S0065211305880022).
@@ -78,6 +79,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Persistence of soil organic matter in eroding versus depositional landform positions](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JG001790).
 - [How will organic carbon stocks in mineral soils evolve under future climate? Global projections using RothC for a range of climate change scenarios](https://bg.copernicus.org/articles/9/3151/2012/).
 - [The Microbial Efficiency-Matrix Stabilization (MEMS) framework integrates plant litter decomposition with soil organic matter stabilization: do labile plant inputs form stable soil organic matter?](https://onlinelibrary.wiley.com/doi/10.1111/gcb.12113).
+- [A review on soil carbon accumulation due to the management change of major Brazilian agricultural activities](https://www.scielo.br/j/bjb/a/JrZLXXpyTkfpF5FnwhCzW3j/?format=pdf&lang=en).
 
 ## 2013
 - [Soil organic carbon sequestration, storage, retention and loss in U.S. croplands: Issues paper for protocol development](https://www.sciencedirect.com/science/article/pii/S0016706112004211).
