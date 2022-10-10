@@ -92,6 +92,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [What are the effects of agricultural management on soil organic carbon (SOC) stocks?](https://link.springer.com/article/10.1186/2047-2382-3-2).
 - [A big-microsite framework for soil carbon modeling](https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.12718).
 - [Dynamics and climate change mitigation potential of soil organic carbon sequestration](https://www.sciencedirect.com/science/article/pii/S0301479714002588).
+- [On Soil Carbon Monitoring Networks](https://link.springer.com/chapter/10.1007/978-3-319-04084-4_6).
 
 ## 2015
 - [Carbon sequestration in soil](https://www.sciencedirect.com/science/article/abs/pii/S1877343515001013).
