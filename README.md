@@ -113,10 +113,12 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Impact of soil erosion on soil organic carbon stocks](https://www.jswconline.org/content/71/3/61A.short).
 - [Climate-smart soils](https://www.nature.com/articles/nature17174).
 - [Challenges in developing effective policy forsoil carbon sequestration: perspectives onadditionality, leakage, and permanence](https://www.tandfonline.com/doi/full/10.1080/14693062.2015.1075372).
+- [Soil carbon sequestration potential of US croplands and grasslands: Implementing the 4 per Thousand Initiative](https://www.jswconline.org/content/71/3/68A).
 
 ## 2017
 - [Adopting soil organic carbon management practices in soils of varying quality: Implications and perspectives in Europe](https://www.sciencedirect.com/science/article/pii/S0167198716301507).
 - [Sequestering Soil Organic Carbon: A Nitrogen Dilemma](https://pubs.acs.org/doi/10.1021/acs.est.7b01427).
+- [Soil carbon 4 per mille](https://www.sciencedirect.com/science/article/pii/S0016706117300095).
 
 ## 2018
 - [Digging deeper: A holistic perspective of factors affecting soil organic carbon sequestration in agroecosystems](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14054). 
