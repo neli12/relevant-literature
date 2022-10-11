@@ -39,11 +39,13 @@
 - [Soil Carbon Sequestration Impacts on Global Climate Change and Food Security](https://www.science.org/doi/10.1126/science.1097396).
 - [Carbon sequestration in croplands: the potential in Europe and the global context](https://www.sciencedirect.com/science/article/pii/S1161030103000996).
 - [Carbon cycling and sequestration opportunities in South America: the case of Brazil](https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers13-12/010041229.pdf).
+- [Carbon cycling in earth systems—a soil science perspective](https://www.sciencedirect.com/science/article/pii/S0167880904000933).
 
 ## 2005
 - [The Depth Distribution of Soil Organic Carbon in Relation to Land Use and Management and the Potential of Carbon Sequestration in Subsoil Horizons](https://www.sciencedirect.com/science/article/abs/pii/S0065211305880022).
 - [The Relationship between Carbon Input, Aggregation, and Soil Organic Carbon Stabilization in Sustainable Cropping Systems](https://doi.org/10.2136/sssaj2004.0215).
 - [Soil Carbon Sequestration](https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9780203491935-3/soil-carbon-sequestration-martial-bernoux-christian-feller-carlos-cerri-vincent-eschenbrenner-carlos-cerri).
+- [Soil carbon: A measure of ecosystem response in a changing world?](https://cdnsciencepub.com/doi/10.4141/S04-081).
 
 ## 2006
 - [A review of nitrogen fertilizer and conservation tillage effects on soil organic carbon storage](https://bsssjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-2743.2005.tb00105.x).
