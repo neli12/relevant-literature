@@ -64,7 +64,7 @@
 - [Soil carbon sequestration and land-use change: processes and potential](https://doi.org/10.1046/j.1365-2486.2000.00308.x).
 
 ## 2009
--[Soil carbon and nitrogen mineralization: Theory and models across scales](https://www.sciencedirect.com/science/article/pii/S0038071709000765).
+- [Soil carbon and nitrogen mineralization: Theory and models across scales](https://www.sciencedirect.com/science/article/pii/S0038071709000765).
 
 ## 2010
 - [What is recalcitrant soil organic matter?](https://www.publish.csiro.au/en/EN10006).
