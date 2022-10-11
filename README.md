@@ -148,6 +148,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Capturing a soil carbon economy](https://royalsocietypublishing.org/doi/10.1098/rsos.202305).
 - [Novel technologies for emission reduction complement conservation agriculture to achieve negative emissions from row-crop production](https://www.pnas.org/doi/10.1073/pnas.2022666118).
 - [Global variation in soil carbon sequestration potential through improved cropland management](https://onlinelibrary.wiley.com/doi/pdf/10.1111/gcb.15954).
+- [The ‘soil health’ metaphor: Illuminating or illusory?](https://www.sciencedirect.com/science/article/pii/S0038071721000390?via%3Dihub).
 
 
 ## 2022
