@@ -25,6 +25,7 @@
 ## 2001
 - [Spatial dependence of soil organic carbon mass and its relationship to soil series and topography](https://cdnsciencepub.com/doi/abs/10.4141/S00-016).
 - [Soil management concepts and carbon sequestration in cropland soils](https://www.sciencedirect.com/science/article/pii/S0167198701001805#!).
+- [The Carbon Budget in Soils](https://www.annualreviews.org/doi/10.1146/annurev.earth.29.1.535).
 
 ## 2002
 - [Stabilization mechanisms of soil organic matter: Implications for C-saturation of soils](https://link.springer.com/article/10.1023/A:1016125726789).
