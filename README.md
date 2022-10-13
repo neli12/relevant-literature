@@ -2,8 +2,14 @@
 ## 1979
 - [An analytical model of the decomposition of soil organic matter](https://www.sciencedirect.com/science/article/abs/pii/0038071779900270).
 
+## 1981
+-[Comparative aspects of cycling of organic C, N, S and P through soil organic matter](https://www.sciencedirect.com/science/article/abs/pii/0016706181900240).
+
 ## 1984
 - [A simulation study for the global carbon cycle, including man's impact on the biosphere](https://link.springer.com/article/10.1007/BF00144611).
+
+## 1990
+- [The turnover of organic carbon and nitrogen in soil](https://royalsocietypublishing.org/doi/10.1098/rstb.1990.0177)
 
 ## 1995
 - [The temperature dependence of soil organic matter decomposition, and the effect of global warming on soil organic C storage](https://www.sciencedirect.com/science/article/pii/003807179400242S).
