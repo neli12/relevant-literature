@@ -3,7 +3,7 @@
 - [An analytical model of the decomposition of soil organic matter](https://www.sciencedirect.com/science/article/abs/pii/0038071779900270).
 
 ## 1981
--[Comparative aspects of cycling of organic C, N, S and P through soil organic matter](https://www.sciencedirect.com/science/article/abs/pii/0016706181900240).
+- [Comparative aspects of cycling of organic C, N, S and P through soil organic matter](https://www.sciencedirect.com/science/article/abs/pii/0016706181900240).
 
 ## 1984
 - [A simulation study for the global carbon cycle, including man's impact on the biosphere](https://link.springer.com/article/10.1007/BF00144611).
