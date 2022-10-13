@@ -47,7 +47,7 @@
 - [Carbon sequestration in croplands: the potential in Europe and the global context](https://www.sciencedirect.com/science/article/pii/S1161030103000996).
 - [Carbon cycling and sequestration opportunities in South America: the case of Brazil](https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers13-12/010041229.pdf).
 - [Carbon cycling in earth systems—a soil science perspective](https://www.sciencedirect.com/science/article/pii/S0167880904000933).
-- [The potential to mitigate global warming with no-tillage management is only realized when practised in the long term (https://onlinelibrary.wiley.com/doi/10.1111/j.1529-8817.2003.00730.x).
+- [The potential to mitigate global warming with no-tillage management is only realized when practised in the long term] (https://onlinelibrary.wiley.com/doi/10.1111/j.1529-8817.2003.00730.x).
 
 ## 2005
 - [The Depth Distribution of Soil Organic Carbon in Relation to Land Use and Management and the Potential of Carbon Sequestration in Subsoil Horizons](https://www.sciencedirect.com/science/article/abs/pii/S0065211305880022).
