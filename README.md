@@ -8,6 +8,9 @@
 ## 1984
 - [A simulation study for the global carbon cycle, including man's impact on the biosphere](https://link.springer.com/article/10.1007/BF00144611).
 
+## 1987
+- [Analysis of Factors Controlling Soil Organic Matter Levels in Great Plains Grasslands (https://acsess.onlinelibrary.wiley.com/doi/10.2136/sssaj1987.03615995005100050015x).
+
 ## 1990
 - [The turnover of organic carbon and nitrogen in soil](https://royalsocietypublishing.org/doi/10.1098/rstb.1990.0177)
 
