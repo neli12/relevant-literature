@@ -41,6 +41,7 @@
 - [Carbon sequestration in croplands: the potential in Europe and the global context](https://www.sciencedirect.com/science/article/pii/S1161030103000996).
 - [Carbon cycling and sequestration opportunities in South America: the case of Brazil](https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers13-12/010041229.pdf).
 - [Carbon cycling in earth systems—a soil science perspective](https://www.sciencedirect.com/science/article/pii/S0167880904000933).
+- [The potential to mitigate global warming with no-tillage management is only realized when practised in the long term (https://onlinelibrary.wiley.com/doi/10.1111/j.1529-8817.2003.00730.x).
 
 ## 2005
 - [The Depth Distribution of Soil Organic Carbon in Relation to Land Use and Management and the Potential of Carbon Sequestration in Subsoil Horizons](https://www.sciencedirect.com/science/article/abs/pii/S0065211305880022).
@@ -70,6 +71,7 @@
 - [What is recalcitrant soil organic matter?](https://www.publish.csiro.au/en/EN10006).
 - [Carbon Finance Possibilities for Agriculture, Forestry and Other
 Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploads/media/1002_FAO_-_Carbon_finance_possibilities_for_agriculture__forestry_and_other_land_use_projects_in_a_smallholder_context.pdf).
+- [Accounting for soil carbon sequestration in national inventories: a soil scientist’s perspective](https://iopscience.iop.org/article/10.1088/1748-9326/5/3/034003/pdf).
 
 ## 2011
 - [Persistence of soil organic matter as an ecosystem property](https://www.nature.com/articles/nature10386).
