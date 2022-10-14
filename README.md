@@ -1,44 +1,20 @@
 # Relevant SOM and SOC literature
-## 1979
-- [An analytical model of the decomposition of soil organic matter](https://www.sciencedirect.com/science/article/abs/pii/0038071779900270).
-
-## 1981
-- [Comparative aspects of cycling of organic C, N, S and P through soil organic matter](https://www.sciencedirect.com/science/article/abs/pii/0016706181900240).
-
-## 1984
-- [A simulation study for the global carbon cycle, including man's impact on the biosphere](https://link.springer.com/article/10.1007/BF00144611).
-
-## 1987
-- [Analysis of Factors Controlling Soil Organic Matter Levels in Great Plains Grasslands](https://acsess.onlinelibrary.wiley.com/doi/10.2136/sssaj1987.03615995005100050015x).
-
-## 1988
-- [Dynamics of C, N, P and S in grassland soils: a model](https://link.springer.com/article/10.1007/BF02180320).
-
-## 1990
-- [The turnover of organic carbon and nitrogen in soil](https://royalsocietypublishing.org/doi/10.1098/rstb.1990.0177)
-
-## 1992
-- [Modeling Soil Organic Matter in Organic-Amended and Nitrogen-Fertilized Long-Term Plots](https://www.researchgate.net/profile/Keith-Paustian/publication/250127922_Modeling_Soil_Organic_Matter_in_Organic-Amended_and_Nitrogen-Fertilized_Long-Term_Plots/links/5b5e2e9d0f7e9bc79a6e5072/Modeling-Soil-Organic-Matter-in-Organic-Amended-and-Nitrogen-Fertilized-Long-Term-Plots.pdf).
-
-## 1993
-- [Observations and modeling of biomass and soil organic matter dynamics for the grassland biome worldwide](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/93GB02042).
-
-## 1994
-- [Long-Term Effects of Crop Management in Wheat-Fallow: II. CENTURY Model Simulations](https://acsess.onlinelibrary.wiley.com/doi/abs/10.2136/sssaj1994.03615995005800020040x).
-
-## 1995
-- [The temperature dependence of soil organic matter decomposition, and the effect of global warming on soil organic C storage](https://www.sciencedirect.com/science/article/pii/003807179400242S).
-
-## 1997
-- [Mineral control of soil organic carbon storage and turnover](https://www.nature.com/articles/38260).
-- [Physical control of soil organic matter dynamics in the tropics](https://www.sciencedirect.com/science/article/pii/S0016706197000396).
-- [Potential for carbon sequestration in European soils: preliminary estimates for five scenarios using results from long-term experiments](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2486.1997.00055.x).
-
-## 1998
-- [CO2 Mitigation by Agriculture: An Overview](https://link.springer.com/article/10.1023/A:1005347017157).
-
-## 1999
-- [Carbon sequestration in soils](https://www.jswconline.org/content/54/1/382.short).
+## 1979-1999
+- 1979 -- [An analytical model of the decomposition of soil organic matter](https://www.sciencedirect.com/science/article/abs/pii/0038071779900270).
+- 1981 -- [Comparative aspects of cycling of organic C, N, S and P through soil organic matter](https://www.sciencedirect.com/science/article/abs/pii/0016706181900240).
+- 1984 -- [A simulation study for the global carbon cycle, including man's impact on the biosphere](https://link.springer.com/article/10.1007/BF00144611).
+- 1987 -- [Analysis of Factors Controlling Soil Organic Matter Levels in Great Plains Grasslands](https://acsess.onlinelibrary.wiley.com/doi/10.2136/sssaj1987.03615995005100050015x).
+- 1988 -- [Dynamics of C, N, P and S in grassland soils: a model](https://link.springer.com/article/10.1007/BF02180320).
+- 1990 -- [The turnover of organic carbon and nitrogen in soil](https://royalsocietypublishing.org/doi/10.1098/rstb.1990.0177)
+- 1992 -- [Modeling Soil Organic Matter in Organic-Amended and Nitrogen-Fertilized Long-Term Plots](https://www.researchgate.net/profile/Keith-Paustian/publication/250127922_Modeling_Soil_Organic_Matter_in_Organic-Amended_and_Nitrogen-Fertilized_Long-Term_Plots/links/5b5e2e9d0f7e9bc79a6e5072/Modeling-Soil-Organic-Matter-in-Organic-Amended-and-Nitrogen-Fertilized-Long-Term-Plots.pdf).
+- 1993 -- [Observations and modeling of biomass and soil organic matter dynamics for the grassland biome worldwide](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/93GB02042).
+- 1994 -- [Long-Term Effects of Crop Management in Wheat-Fallow: II. CENTURY Model Simulations](https://acsess.onlinelibrary.wiley.com/doi/abs/10.2136/sssaj1994.03615995005800020040x).
+- 1995 -- [The temperature dependence of soil organic matter decomposition, and the effect of global warming on soil organic C storage](https://www.sciencedirect.com/science/article/pii/003807179400242S).
+- 1997 -- [Mineral control of soil organic carbon storage and turnover](https://www.nature.com/articles/38260).
+- 1997 -- [Physical control of soil organic matter dynamics in the tropics](https://www.sciencedirect.com/science/article/pii/S0016706197000396).
+- 1997 -- [Potential for carbon sequestration in European soils: preliminary estimates for five scenarios using results from long-term experiments](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2486.1997.00055.x).
+- 1998 -- [CO2 Mitigation by Agriculture: An Overview](https://link.springer.com/article/10.1023/A:1005347017157).
+- 1999 -- [Carbon sequestration in soils](https://www.jswconline.org/content/54/1/382.short).
 
 ## 2000 
 - [THE VERTICAL DISTRIBUTION OF SOIL ORGANIC CARBON AND ITS RELATION TO CLIMATE AND VEGETATION]( https://doi.org/10.1890/1051-0761(2000)010[0423:TVDOSO]2.0.CO;2).
