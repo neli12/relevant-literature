@@ -17,6 +17,9 @@
 ## 1992
 - [Modeling Soil Organic Matter in Organic-Amended and Nitrogen-Fertilized Long-Term Plots](https://www.researchgate.net/profile/Keith-Paustian/publication/250127922_Modeling_Soil_Organic_Matter_in_Organic-Amended_and_Nitrogen-Fertilized_Long-Term_Plots/links/5b5e2e9d0f7e9bc79a6e5072/Modeling-Soil-Organic-Matter-in-Organic-Amended-and-Nitrogen-Fertilized-Long-Term-Plots.pdf).
 
+## 1993
+- [Observations and modeling of biomass and soil organic matter dynamics for the grassland biome worldwide](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/93GB02042).
+
 ## 1994
 - [Long-Term Effects of Crop Management in Wheat-Fallow: II. CENTURY Model Simulations](https://acsess.onlinelibrary.wiley.com/doi/abs/10.2136/sssaj1994.03615995005800020040x).
 
