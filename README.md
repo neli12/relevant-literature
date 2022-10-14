@@ -39,6 +39,7 @@
 - [Carbon cycling and sequestration opportunities in South America: the case of Brazil](https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers13-12/010041229.pdf).
 - [Carbon cycling in earth systems—a soil science perspective](https://www.sciencedirect.com/science/article/pii/S0167880904000933).
 - [The potential to mitigate global warming with no-tillage management is only realized when practised in the long term](https://onlinelibrary.wiley.com/doi/10.1111/j.1529-8817.2003.00730.x)
+- [Global climate change and soil carbon stocks; predictions from two contrasting models for the turnover of organic carbon in soil](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2486.2004.00885.x).
 
 ## 2005
 - [The Depth Distribution of Soil Organic Carbon in Relation to Land Use and Management and the Potential of Carbon Sequestration in Subsoil Horizons](https://www.sciencedirect.com/science/article/abs/pii/S0065211305880022).
@@ -60,6 +61,8 @@
 ## 2008
 - [Historical advances in the study of global terrestrial soil organic carbon sequestration](https://www.sciencedirect.com/science/article/abs/pii/S0956053X07003194).
 - [Soil carbon sequestration and land-use change: processes and potential](https://doi.org/10.1046/j.1365-2486.2000.00308.x).
+- [The turnover of organic carbon in subsoils. Part 1. Natural and bomb radiocarbon in soil profiles from the Rothamsted long-term field experiments](https://bsssjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-2389.2008.01025.x).
+- [The turnover of organic carbon in subsoils. Part 2. Modelling carbon turnover](https://bsssjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-2389.2008.01026.x).
 
 ## 2009
 - [Soil carbon and nitrogen mineralization: Theory and models across scales](https://www.sciencedirect.com/science/article/pii/S0038071709000765).
