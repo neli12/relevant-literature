@@ -14,6 +14,9 @@
 ## 1990
 - [The turnover of organic carbon and nitrogen in soil](https://royalsocietypublishing.org/doi/10.1098/rstb.1990.0177)
 
+## 1992
+- [Modeling Soil Organic Matter in Organic-Amended and Nitrogen-Fertilized Long-Term Plots](https://www.researchgate.net/profile/Keith-Paustian/publication/250127922_Modeling_Soil_Organic_Matter_in_Organic-Amended_and_Nitrogen-Fertilized_Long-Term_Plots/links/5b5e2e9d0f7e9bc79a6e5072/Modeling-Soil-Organic-Matter-in-Organic-Amended-and-Nitrogen-Fertilized-Long-Term-Plots.pdf).
+
 ## 1995
 - [The temperature dependence of soil organic matter decomposition, and the effect of global warming on soil organic C storage](https://www.sciencedirect.com/science/article/pii/003807179400242S).
 
