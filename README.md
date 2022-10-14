@@ -27,6 +27,7 @@
 ## 2002
 - [Stabilization mechanisms of soil organic matter: Implications for C-saturation of soils](https://link.springer.com/article/10.1023/A:1016125726789).
 - [Potential soil carbon sequestration in overgrazed grassland ecosystems](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2001GB001661).
+- [Soil carbon stocks and land use change: a meta analysis](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1354-1013.2002.00486.x).
 
 ## 2003
 - [Possibilities for carbon sequestration in tropical and subtropical soils](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2486.1997.00062.x).
