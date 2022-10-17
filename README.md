@@ -58,6 +58,7 @@
 - [Soil organic carbon changes in dynamic land use decision models](https://www.sciencedirect.com/science/article/pii/S0167880906002982).
 - [Progress in soil organic matter research: litter decomposition, modelling, monitoring and sequestration](https://journals.sagepub.com/doi/abs/10.1177/0309133307076478).
 - [Tillage and soil carbon sequestration—What do we really know?](https://www.sciencedirect.com/science/article/pii/S0167880906001617).
+- [Economic consequences of consideration of permanence, leakage and additionality for soil carbon sequestration projects](https://link.springer.com/article/10.1007/s10584-006-9169-4).
 
 ## 2008
 - [Historical advances in the study of global terrestrial soil organic carbon sequestration](https://www.sciencedirect.com/science/article/abs/pii/S0956053X07003194).
