@@ -148,6 +148,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Modelling dynamic interactions between soil structure and the storage and turnover of soil organic matter](https://bg.copernicus.org/articles/17/5025/2020/).
 - [Millennial-scale hydroclimate control of tropical soil carbon storage](https://www.nature.com/articles/s41586-020-2233-9).
 - [Soil carbon market-based instrument pilot – the sequestration of soil organic carbon for the purpose of obtaining carbon credits](https://www.publish.csiro.au/sr/sr19331).
+- [The role of soil carbon in natural climate solutions](https://www.nature.com/articles/s41893-020-0491-z#:~:text=Soil%20carbon%20comprises%209%25%20of,in%20addition%20to%20climate%20mitigation.)
 
 ## 2021
 - [No till soil organic carbon sequestration could be overestimated when slope effect is not considered](https://www.sciencedirect.com/science/article/pii/S0048969720372892).
