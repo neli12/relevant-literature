@@ -178,6 +178,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Tracking progress on food and agriculture-related SDG indicators 2022](https://www.fao.org/documents/card/en/c/cc1403en).
 - [Global variation in soil carbon sequestration potential through improved cropland management](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15954).
 - [Mechanisms of soil organic carbon sequestration and implications for management](https://bdspublishing.com/_webedit/uploaded-files/All%20Files/Open%20Access/9781801465717.pdf).
+- [Improving Soil Carbon Estimates by Linking Conceptual Pools Against Measurable Carbon Fractions in the DAYCENT Model Version 4.5](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021MS002622).
 
 
 
