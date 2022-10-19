@@ -119,6 +119,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Challenges in developing effective policy for soil carbon sequestration: perspectives on additionality, leakage, and permanence](https://www.tandfonline.com/doi/full/10.1080/14693062.2015.1075372).
 - [Soil carbon sequestration potential of US croplands and grasslands: Implementing the 4 per Thousand Initiative](https://www.jswconline.org/content/71/3/68A).
 - [Beyond COP 21: Potential and challenges of the “4 per Thousand” initiative](https://www.jswconline.org/content/71/1/20A).
+- [Farm-scale soil carbon auditing](https://www.sciencedirect.com/science/article/pii/S0016706115301269).
 
 ## 2017
 - [Adopting soil organic carbon management practices in soils of varying quality: Implications and perspectives in Europe](https://www.sciencedirect.com/science/article/pii/S0167198716301507).
