@@ -140,6 +140,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [High carbon storage in a previously degraded subtropical soil under no-tillage with legume cover crops](https://www.sciencedirect.com/science/article/pii/S0167880918303712?via%3Dihub).
 - [Soil Carbon: Introduction, Importance, Status, Threat, and Mitigation](https://www.sciencedirect.com/science/article/pii/B9780128127667000019#!).
 - [Climate, Geography, and Soil Abiotic Properties as Modulators of Soil Carbon Storage](https://www.sciencedirect.com/science/article/pii/B9780128127667000056). 
+- [Optimal soil carbon sampling designs to achieve cost-effectiveness: a case study in blue carbon ecosystems](https://royalsocietypublishing.org/doi/10.1098/rsbl.2018.0416).
 
 
 ## 2019
