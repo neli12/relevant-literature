@@ -15,6 +15,7 @@
 - 1997 -- [Potential for carbon sequestration in European soils: preliminary estimates for five scenarios using results from long-term experiments](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2486.1997.00055.x).
 - 1998 -- [CO2 Mitigation by Agriculture: An Overview](https://link.springer.com/article/10.1023/A:1005347017157).
 - 1999 -- [Carbon sequestration in soils](https://www.jswconline.org/content/54/1/382.short).
+- 1999 -- [Soil Carbon Inventories under a Bioenergy Crop (Switchgrass): Measurement Limitations](https://acsess.onlinelibrary.wiley.com/doi/10.2134/jeq1999.00472425002800040041x).
 
 ## 2000 
 - [THE VERTICAL DISTRIBUTION OF SOIL ORGANIC CARBON AND ITS RELATION TO CLIMATE AND VEGETATION]( https://doi.org/10.1890/1051-0761(2000)010[0423:TVDOSO]2.0.CO;2).
@@ -28,10 +29,13 @@
 - [Stabilization mechanisms of soil organic matter: Implications for C-saturation of soils](https://link.springer.com/article/10.1023/A:1016125726789).
 - [Potential soil carbon sequestration in overgrazed grassland ecosystems](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2001GB001661).
 - [Soil carbon stocks and land use change: a meta analysis](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1354-1013.2002.00486.x).
+- [Spatial variability of soil organic carbon in grasslands: implications for detecting change at different scales](https://www.sciencedirect.com/science/article/pii/S0269749101002652).
+- [Assessment of a Method to Measure Temporal Change in Soil Carbon Storage](https://acsess.onlinelibrary.wiley.com/doi/full/10.2136/sssaj2002.1687).
 
 ## 2003
 - [Possibilities for carbon sequestration in tropical and subtropical soils](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2486.1997.00062.x).
 - [Potential Soil C Sequestration on U.S. Agricultural Soils](https://link.springer.com/article/10.1023/A:1022888832630).
+- [Spatial Variability of Soil Carbon in Forested and Cultivated Sites - Implications for Change Detection](https://acsess.onlinelibrary.wiley.com/doi/full/10.2134/jeq2003.2780).
 
 
 ## 2004
@@ -68,6 +72,7 @@
 
 ## 2009
 - [Soil carbon and nitrogen mineralization: Theory and models across scales](https://www.sciencedirect.com/science/article/pii/S0038071709000765).
+- [Estimating the regional mean status and change of soil properties: two distinct objectives for soil survey](https://bsssjournals.onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2389.2009.01156.x).
 
 ## 2010
 - [What is recalcitrant soil organic matter?](https://www.publish.csiro.au/en/EN10006).
@@ -79,6 +84,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Persistence of soil organic matter as an ecosystem property](https://www.nature.com/articles/nature10386).
 - [Temperature and soil organic matter decomposition rates – synthesis of current knowledge and a way forward](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2486.2011.02496.x).
 - [Soil management in relation to sustainable agriculture and ecosystem services](https://www.sciencedirect.com/science/article/abs/pii/S0306919210001399).
+- [Designing a national soil carbon monitoring network to support climate change policy: a case example for US agricultural lands](https://www.tandfonline.com/doi/full/10.1080/20430779.2011.637696).
 
 ## 2012
 - [Soil organic matter turnover is governed by accessibility not recalcitrance](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2486.2012.02665.x).
