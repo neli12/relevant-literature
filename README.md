@@ -142,6 +142,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Soil organic carbon stock as an indicator for monitoring land and soil degradation in relation to United Nations' Sustainable Development Goals](https://doi.org/10.1002/ldr.3270).
 - [Conceptualizing soil organic matter into particulate and mineral-associated forms to address global change in the 21st century](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14859).
 - [Increasing organic stocks in agricultural soils: Knowledge gaps and potential innovations](https://www.sciencedirect.com/science/article/pii/S0167198718303738).
+- [Quantifying carbon for agricultural soil management: from the current status toward a global soil information system](https://www.tandfonline.com/doi/full/10.1080/17583004.2019.1633231).
 
 ## 2020
 - [Dynamic Stability of Soil Carbon: Reassessing the “Permanence” of Soil Carbon Sequestration](https://www.frontiersin.org/articles/10.3389/fenvs.2020.514701/full).
