@@ -100,6 +100,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [The knowns, known unknowns and unknowns of sequestration of soil organic carbon](https://www.sciencedirect.com/science/article/pii/S0167880912003635).
 - [Effects of 24 Years of Conservation Tillage Systems on Soil Organic Carbon and Soil Productivity](https://www.hindawi.com/journals/aess/2013/617504/).
 - [Evaluation of Three Field-Based Methods for Quantifying Soil Carbon](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0055560).
+- [A comparison of carbon accounting tools for arable crops in the United Kingdom](https://www.sciencedirect.com/science/article/abs/pii/S1364815213000789).
 
 ## 2014
 - [Experimental Consideration, Treatments, and Methods in Determining Soil Organic Carbon Sequestration Rates](https://acsess.onlinelibrary.wiley.com/doi/full/10.2136/sssaj2013.09.0412). 
