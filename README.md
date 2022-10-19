@@ -31,6 +31,7 @@
 - [Soil carbon stocks and land use change: a meta analysis](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1354-1013.2002.00486.x).
 - [Spatial variability of soil organic carbon in grasslands: implications for detecting change at different scales](https://www.sciencedirect.com/science/article/pii/S0269749101002652).
 - [Assessment of a Method to Measure Temporal Change in Soil Carbon Storage](https://acsess.onlinelibrary.wiley.com/doi/full/10.2136/sssaj2002.1687).
+- [Guidance on Choosing a Sampling Design for Environmental Data Collection](https://www.epa.gov/sites/default/files/2015-06/documents/g5s-final.pdf).
 
 ## 2003
 - [Possibilities for carbon sequestration in tropical and subtropical soils](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2486.1997.00062.x).
