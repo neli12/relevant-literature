@@ -24,6 +24,7 @@
 - [Spatial dependence of soil organic carbon mass and its relationship to soil series and topography](https://cdnsciencepub.com/doi/abs/10.4141/S00-016).
 - [Soil management concepts and carbon sequestration in cropland soils](https://www.sciencedirect.com/science/article/pii/S0167198701001805#!).
 - [The Carbon Budget in Soils](https://www.annualreviews.org/doi/10.1146/annurev.earth.29.1.535).
+- [MONITORING AND VERIFYING CHANGES OF ORGANIC CARBON IN SOIL](https://link.springer.com/content/pdf/10.1023/A:1017514802028.pdf).
 
 ## 2002
 - [Stabilization mechanisms of soil organic matter: Implications for C-saturation of soils](https://link.springer.com/article/10.1023/A:1016125726789).
@@ -74,6 +75,7 @@
 ## 2009
 - [Soil carbon and nitrogen mineralization: Theory and models across scales](https://www.sciencedirect.com/science/article/pii/S0038071709000765).
 - [Estimating the regional mean status and change of soil properties: two distinct objectives for soil survey](https://bsssjournals.onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2389.2009.01156.x).
+- [Driving forces of soil organic carbon evolution at the landscape and regional scale using data from a stratified soil monitoring](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2486.2009.01940.x).
 
 ## 2010
 - [What is recalcitrant soil organic matter?](https://www.publish.csiro.au/en/EN10006).
