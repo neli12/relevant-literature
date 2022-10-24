@@ -7,6 +7,7 @@
 - 1988 -- [Dynamics of C, N, P and S in grassland soils: a model](https://link.springer.com/article/10.1007/BF02180320).
 - 1990 -- [The turnover of organic carbon and nitrogen in soil](https://royalsocietypublishing.org/doi/10.1098/rstb.1990.0177)
 - 1992 -- [Modeling Soil Organic Matter in Organic-Amended and Nitrogen-Fertilized Long-Term Plots](https://www.researchgate.net/profile/Keith-Paustian/publication/250127922_Modeling_Soil_Organic_Matter_in_Organic-Amended_and_Nitrogen-Fertilized_Long-Term_Plots/links/5b5e2e9d0f7e9bc79a6e5072/Modeling-Soil-Organic-Matter-in-Organic-Amended-and-Nitrogen-Fertilized-Long-Term-Plots.pdf).
+- 1992 -- [Light-Fraction Organic Matter in Soils from Long-Term Crop Rotations](https://acsess.onlinelibrary.wiley.com/doi/abs/10.2136/sssaj1992.03615995005600060025x).
 - 1993 -- [Observations and modeling of biomass and soil organic matter dynamics for the grassland biome worldwide](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/93GB02042).
 - 1994 -- [Long-Term Effects of Crop Management in Wheat-Fallow: II. CENTURY Model Simulations](https://acsess.onlinelibrary.wiley.com/doi/abs/10.2136/sssaj1994.03615995005800020040x).
 - 1995 -- [The temperature dependence of soil organic matter decomposition, and the effect of global warming on soil organic C storage](https://www.sciencedirect.com/science/article/pii/003807179400242S).
