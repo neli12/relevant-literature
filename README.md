@@ -123,6 +123,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Carbon sequestration in agricultural soils via cultivation of cover crops – A meta-analysis](https://www.sciencedirect.com/science/article/pii/S0167880914004873).
 - [Current developments in soil organic matter modeling and the expansion of model applications: a review](https://iopscience.iop.org/article/10.1088/1748-9326/10/12/123004/meta).
 - [Modeling the Dynamics of Soil Organic Matter and Nutrient Cycling](https://www.sciencedirect.com/science/article/pii/B9780124159556000177?via%3Dihub).
+- [Carbon sequestration in agricultural soils via cultivation of cover crops – A meta-analysis](https://www.sciencedirect.com/science/article/pii/S0167880914004873?via%3Dihub).
 
 ## 2016
 - [Alternative arable cropping systems: A key to increase soil organic carbon storage? Results from a 16 year field experiment](https://www.sciencedirect.com/science/article/pii/S0167880916303760).
