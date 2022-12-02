@@ -26,6 +26,7 @@
 - [Soil management concepts and carbon sequestration in cropland soils](https://www.sciencedirect.com/science/article/pii/S0167198701001805#!).
 - [The Carbon Budget in Soils](https://www.annualreviews.org/doi/10.1146/annurev.earth.29.1.535).
 - [MONITORING AND VERIFYING CHANGES OF ORGANIC CARBON IN SOIL](https://link.springer.com/content/pdf/10.1023/A:1017514802028.pdf).
+- [Potential of Desertification Control to Sequester Carbon and Mitigate the Greenhouse Effect](https://link.springer.com/article/10.1023/A:1017529816140).
 
 ## 2002
 - [Stabilization mechanisms of soil organic matter: Implications for C-saturation of soils](https://link.springer.com/article/10.1023/A:1016125726789).
@@ -39,6 +40,7 @@
 - [Possibilities for carbon sequestration in tropical and subtropical soils](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2486.1997.00062.x).
 - [Potential Soil C Sequestration on U.S. Agricultural Soils](https://link.springer.com/article/10.1023/A:1022888832630).
 - [Spatial Variability of Soil Carbon in Forested and Cultivated Sites - Implications for Change Detection](https://acsess.onlinelibrary.wiley.com/doi/full/10.2134/jeq2003.2780).
+- [Global Potential of Soil Carbon Sequestration to Mitigate the Greenhouse Effect](https://www.tandfonline.com/doi/abs/10.1080/713610854).
 
 
 ## 2004
