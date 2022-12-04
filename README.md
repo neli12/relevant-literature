@@ -91,6 +91,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Temperature and soil organic matter decomposition rates – synthesis of current knowledge and a way forward](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2486.2011.02496.x).
 - [Soil management in relation to sustainable agriculture and ecosystem services](https://www.sciencedirect.com/science/article/abs/pii/S0306919210001399).
 - [Designing a national soil carbon monitoring network to support climate change policy: a case example for US agricultural lands](https://www.tandfonline.com/doi/full/10.1080/20430779.2011.637696).
+- [Stable soil organic matter: A comparison of C:N:P:S ratios in Australian and other world soils](https://www.sciencedirect.com/science/article/pii/S0016706111000905).
 
 ## 2012
 - [Soil organic matter turnover is governed by accessibility not recalcitrance](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2486.2012.02665.x).
@@ -106,6 +107,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Effects of 24 Years of Conservation Tillage Systems on Soil Organic Carbon and Soil Productivity](https://www.hindawi.com/journals/aess/2013/617504/).
 - [Evaluation of Three Field-Based Methods for Quantifying Soil Carbon](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0055560).
 - [A comparison of carbon accounting tools for arable crops in the United Kingdom](https://www.sciencedirect.com/science/article/abs/pii/S1364815213000789).
+- [Carbon-nutrient stoichiometry to increase soil carbon sequestration](https://www.sciencedirect.com/science/article/pii/S0038071713000229).
 
 ## 2014
 - [Experimental Consideration, Treatments, and Methods in Determining Soil Organic Carbon Sequestration Rates](https://acsess.onlinelibrary.wiley.com/doi/full/10.2136/sssaj2013.09.0412). 
