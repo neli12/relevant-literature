@@ -203,6 +203,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Mechanisms of soil organic carbon sequestration and implications for management](https://bdspublishing.com/_webedit/uploaded-files/All%20Files/Open%20Access/9781801465717.pdf).
 - [Improving Soil Carbon Estimates by Linking Conceptual Pools Against Measurable Carbon Fractions in the DAYCENT Model Version 4.5](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021MS002622).
 - [Grassland soil carbon sequestration: Current understanding, challenges, and solutions](https://www.science.org/doi/epdf/10.1126/science.abo2380).
+- [The Role of Soil Carbon Sequestration as a Climate Change Mitigation Strategy: An Australian Case Study](https://www.mdpi.com/2571-8789/6/2/46/htm).
 
 
 
