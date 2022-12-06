@@ -204,6 +204,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Improving Soil Carbon Estimates by Linking Conceptual Pools Against Measurable Carbon Fractions in the DAYCENT Model Version 4.5](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021MS002622).
 - [Grassland soil carbon sequestration: Current understanding, challenges, and solutions](https://www.science.org/doi/epdf/10.1126/science.abo2380).
 - [The Role of Soil Carbon Sequestration as a Climate Change Mitigation Strategy: An Australian Case Study](https://www.mdpi.com/2571-8789/6/2/46/htm).
+- [Soil carbon sequestration by agriculture. Policy options](https://www.oecd-ilibrary.org/docserver/63ef3841-en.pdf?expires=1670350769&id=id&accname=guest&checksum=2D0E7D13FDD5975E19E63A4AB6101C24).
 
 ## 2023
 - [Improving soil organic carbon predictions from a Sentinel–2 soil composite by assessing surface conditions and uncertainties](https://www.sciencedirect.com/science/article/pii/S0016706122004359?via%3Dihub).
