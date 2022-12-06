@@ -154,6 +154,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Climate, Geography, and Soil Abiotic Properties as Modulators of Soil Carbon Storage](https://www.sciencedirect.com/science/article/pii/B9780128127667000056). 
 - [Optimal soil carbon sampling designs to achieve cost-effectiveness: a case study in blue carbon ecosystems](https://royalsocietypublishing.org/doi/10.1098/rsbl.2018.0416).
 - [Negative emissions—Part 2: Costs, potentials and side effects](https://iopscience.iop.org/article/10.1088/1748-9326/aabf9f/meta).
+- [Critical review of the impacts of grazing intensity on soil organic carbon storage and other soil quality indicators in extensively managed grasslands](https://www.sciencedirect.com/science/article/pii/S0167880917304693).
 
 
 ## 2019
