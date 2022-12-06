@@ -205,6 +205,9 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Grassland soil carbon sequestration: Current understanding, challenges, and solutions](https://www.science.org/doi/epdf/10.1126/science.abo2380).
 - [The Role of Soil Carbon Sequestration as a Climate Change Mitigation Strategy: An Australian Case Study](https://www.mdpi.com/2571-8789/6/2/46/htm).
 
+## 2023
+- [Improving soil organic carbon predictions from a Sentinel–2 soil composite by assessing surface conditions and uncertainties](https://www.sciencedirect.com/science/article/pii/S0016706122004359?via%3Dihub).
+
 
 
 
