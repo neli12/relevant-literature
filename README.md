@@ -27,6 +27,7 @@
 - [The Carbon Budget in Soils](https://www.annualreviews.org/doi/10.1146/annurev.earth.29.1.535).
 - [MONITORING AND VERIFYING CHANGES OF ORGANIC CARBON IN SOIL](https://link.springer.com/content/pdf/10.1023/A:1017514802028.pdf).
 - [Potential of Desertification Control to Sequester Carbon and Mitigate the Greenhouse Effect](https://link.springer.com/article/10.1023/A:1017529816140).
+- [Grassland management and conservation into grassland: effects on soil carbon](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/1051-0761(2001)011%5B0343:GMACIG%5D2.0.CO;2?src=getftr).
 
 ## 2002
 - [Stabilization mechanisms of soil organic matter: Implications for C-saturation of soils](https://link.springer.com/article/10.1023/A:1016125726789).
