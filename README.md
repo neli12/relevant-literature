@@ -156,6 +156,7 @@ Land Use Projects in a Smallholder Context](http://www.globalbioenergy.org/uploa
 - [Optimal soil carbon sampling designs to achieve cost-effectiveness: a case study in blue carbon ecosystems](https://royalsocietypublishing.org/doi/10.1098/rsbl.2018.0416).
 - [Negative emissions—Part 2: Costs, potentials and side effects](https://iopscience.iop.org/article/10.1088/1748-9326/aabf9f/meta).
 - [Critical review of the impacts of grazing intensity on soil organic carbon storage and other soil quality indicators in extensively managed grasslands](https://www.sciencedirect.com/science/article/pii/S0167880917304693).
+- [Approaches to model the impact of tillage implements on soil physical and nutrient properties in different agro-ecosystem model](https://reader.elsevier.com/reader/sd/pii/S0167198718302034?token=5FC21730CFA5F1F0BAA7C901EB2AFC059FF78A4E540D214BDFB0C28B171B112DFC1F1875E387BC88A270DCA6E84DD67B&originRegion=us-east-1&originCreation=20230125160344).
 
 
 ## 2019
